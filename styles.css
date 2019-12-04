@@ -1,0 +1,132 @@
+body {
+    float:center;
+    padding:0
+    width:600px;
+    height:600px;
+    font-family "Arial", sans-serif;
+    font-size:14px;
+    line-height: 18px;
+    color:red;
+    background : url(img/images.jfif);
+    margin-left:auto;
+    margin-right:auto;
+    
+    
+    
+}
+h1 {
+    float:center;
+    position: relative;;
+    width:250px;
+    font-size: 40px;
+    height:20px;
+    margin-top: 90px;
+    padding-left:90px;
+    padding-right:auto;
+    margin-left:auto;
+    margin-right:auto;
+
+    
+}
+p {
+    float:center;
+    position: relative;
+    width:250px;
+    height:150px;
+    font-size:10px;
+    margin-top:10px;
+    padding-left:10px;
+    margin-left:auto;
+    Margin-right:auto;
+    text-align: center;
+}
+main {
+    float: center;
+    position:relative;
+    bottom:100px;
+    width:250px;
+    height:290px;
+    margin-top: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: 10px;
+    border:1px solid white;
+}
+    input {
+        float:left;
+        position:relative;
+        margin-left:40px;
+        
+    }
+     }
+     sidebar{
+          
+         width:auto;
+         height:50px;
+         padding-left:200px;
+          }
+      nav { 
+          width: auto;
+          height:50px;
+          font-size:15px;
+          margin-top: 20px;
+          padding-left:50px;
+        
+
+     }
+     .table1 {
+         position:relative;
+         left:30px;
+         bottom:15px;
+         width:160px;
+         height:20px;
+         border:1px solid white;
+         padding-left: 20px;
+         font-size: 10px;
+     }
+     .table2 {
+        position:relative;
+        left:30px;
+        top:1px;
+        width:160px;
+        height:20px;
+        border:1px solid white;
+        padding-left: 20px;
+        font-size:10px;
+     }
+     .table3 {
+        position: relative;
+        left:30px;
+        top:1px;
+        width:160px;
+        height:5px;
+        
+        padding-left: 20px;
+        font-size:7px;
+     }
+     .table4 { 
+        position:relative;
+        left:30px;
+        top:15px;
+        width:110px;
+        height:20px;
+        border:1px solid blue;
+        padding-left: 70px;
+        font-size:15px;
+         }
+         .table5 {
+            position:relative;
+            left:30px;
+            top:70px;
+            width:160px;
+            height:20px;
+            border:1px solid transparent;
+            padding-left: 40px;
+            font-size:10px;
+
+
+            footer {
+float:left;
+bottom:50px;
+
+            }
